@@ -19,7 +19,7 @@ When using babel you can use the store as shown [here](https://github.com/pakogn
 ```javascript
 return store.state.counter
 ```
-but when using bublé you have to use the 'default' propertie to use the store, like this:
+but when using bublé you have to use the 'default' property to use the store, like this:
 ```javascript
 return store.default.state.counter
 ```
